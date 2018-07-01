@@ -58,7 +58,8 @@ function tweetEvent(eventMsg){
 function tweetIt(txt){
 	//tweetIt collects the message to be sent, takes a picture and 
 	//sends it as a reply
-	//txt is the text in the reply
+	//txt is the text in the reply message
+	
 	//send a command to take picture with the camera
 	var cmd = 'raspistill -o bilde.jpg'
 	exec(cmd, prosess);
