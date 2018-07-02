@@ -40,7 +40,7 @@ function tweetEvent(eventMsg){
 
 	console.log(replyto + ' ' + from + ' ' + text);
 	//check that it was sent to your account
-	if(replyto === 'JonasAn32107027'){
+	if(replyto === 'your twitter'){	// check for your twitter id
 		var newtweet = '@' + from + " Hva skjer a?";
 		//send the message to the tweetIt function to send a reply
 		tweetIt(newtweet);
