@@ -5,9 +5,3 @@ Project using Raspberry Pi with Node's Twit module to reply to a tweet. It is se
 
 bot21.js is the file to run in node, recieve_print_txt.ino is uploaded to the arduino.
 
-
-The code for this project was primarily taken from:
-
-https://www.youtube.com/watch?v=RF5_MPSNAtU&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV
-
-https://www.youtube.com/watch?v=kmIy1Y0Jwo8&index=8&list=PLT6rF_I5kknPf2qlVFlvH47qHvqvzkknd&t=0s
